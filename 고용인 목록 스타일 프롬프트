@@ -1,0 +1,30 @@
+React + TypeScript + Styled Components를 사용해서 고용인 목록(Employee List) UI를 만들어줘.
+
+데이터 컬럼:
+- ID
+- 이름
+- 이메일
+- 직무
+- 급여
+
+디자인 컨셉:
+- 현대적인 SaaS Admin Dashboard 스타일
+- Notion, Stripe, Linear 느낌
+- 깔끔하고 고급스러운 테이블 UI
+- 화이트 배경
+- 부드러운 그림자
+- 12px Border Radius
+- Hover 시 행 강조 효과
+- Header는 연한 회색 배경
+- Typography를 세련되게 적용
+- 여백을 충분히 사용
+- 반응형 지원
+
+구성:
+- 상단 제목: Employee Management
+- 우측 상단 Add Employee 버튼
+- 검색창 포함
+- 테이블 형태로 데이터 표시
+- 급여는 강조 색상 적용
+- Styled Components만 사용
+- 실제 서비스 수준의 디자인과 코드 작성
